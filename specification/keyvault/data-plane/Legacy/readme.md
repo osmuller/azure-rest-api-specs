@@ -180,11 +180,11 @@ These settings apply only when `--tag=package-7.1-preview` is specified on the c
 
 ``` yaml $(tag) == 'package-7.1-preview'
 input-file:
-- preview/7.1/certificates.json
-- preview/7.1/common.json
-- preview/7.1/keys.json
-- preview/7.1/secrets.json
-- preview/7.1/storage.json
+- preview/7.1-preview/certificates.json
+- preview/7.1-preview/common.json
+- preview/7.1-preview/keys.json
+- preview/7.1-preview/secrets.json
+- preview/7.1-preview/storage.json
 ```
 
 ### Tag: package-7.0
