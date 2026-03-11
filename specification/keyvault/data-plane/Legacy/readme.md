@@ -311,13 +311,13 @@ input-file:
   - $(this-folder)/stable/7.1/keys.json
   - $(this-folder)/stable/7.1/secrets.json
   - $(this-folder)/stable/7.1/storage.json
-  - $(this-folder)/preview/7.1/certificates.json
-  - $(this-folder)/preview/7.1/common.json
-  - $(this-folder)/preview/7.1/keys.json
-  - $(this-folder)/preview/7.1/secrets.json
-  - $(this-folder)/preview/7.1/storage.json
+  - $(this-folder)/preview/7.1-preview/certificates.json
+  - $(this-folder)/preview/7.1-preview/common.json
+  - $(this-folder)/preview/7.1-preview/keys.json
+  - $(this-folder)/preview/7.1-preview/secrets.json
+  - $(this-folder)/preview/7.1-preview/storage.json
   - $(this-folder)/stable/7.0/keyvault.json
-  - $(this-folder)/preview/7.0/keyvault.json
+  - $(this-folder)/preview/7.0-preview/keyvault.json
   - $(this-folder)/stable/2016-10-01/keyvault.json
   - $(this-folder)/stable/2015-06-01/keyvault.json
 
